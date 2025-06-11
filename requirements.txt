@@ -57,7 +57,7 @@ python-dotenv==1.0.0
 pytz==2023.3.post1
 pyzmq==25.1.0
 realtime==1.0.0
-requests==2.31.0
+requests==2.32.4
 sec-downloader==0.10.1
 sec-edgar-downloader==5.0.0
 six==1.16.0
